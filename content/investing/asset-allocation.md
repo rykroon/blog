@@ -5,38 +5,41 @@ title = 'Asset Allocation'
 +++
 
 ## What is Asset Allocation?
-
-In the world of investing you will often hear the term "Asset Allocation". Asset allocation, as the name suggests, is the process of determining how much of your investments are allocated towards each asset class. The two most common asset classes that are considered when building a portfolio are stocks and bonds. Stocks are the high risk high reward asset and bonds, also referred to as "fixed income" is the low risk low reward asset. There are other assets classes that exist such as real estate, commodities, precious metals, and nowadays crypto currencies.
+In the world of investing you will often hear the term "Asset Allocation". Asset allocation, as the name suggests, is the process of determining how much of your investments are allocated towards each asset class. The two most common asset classes that are considered when building a portfolio are stocks and bonds. Stocks are the high risk high reward asset and bonds, also referred to as "fixed income", is the low risk low reward asset. There are other assets classes that exist such as real estate, commodities, precious metals, and nowadays crypto currencies.
 
 ## What is the goal of Asset Allocation?
+The goal of asset allocation is to manage risk. Each individual has their own tolerance for risk and it is up to the individual to determine how much risk they are willing to take. It can take several years or even decades to figure out how much risk you are comfortable with and as you go through different stages of life your risk tolerance will change.
 
-The goal of asset allocation is to manage risk. Each individual has their own tolerance for risk and it is up to the individual to determine how much risk they are willing to take. It can take several years or even decades to figure out how much risk you are comfortable with and as you go through different stages of your life your risk tolerance will change.
-
-As a general rule of thumb you want to be more risky in your younger years and less risky in your older years. This is because when you are in your younger years you have a lot of time to recover if there were to be a market crash. When you are older and retired you do not want to risk having to go back to work because of a market crash so it's better to have a lower risk asset allocation.
-
+As a general rule of thumb you want to be more risky in your younger years and less risky in your older years. This is because when you are younger you have a lot of time to recover if there were to be a market crash. When you are older you do not want to risk delaying retirement or having to go back to work if you are already retired because of a market crash so it's better to have a lower risk asset allocation.
 
 ## Fear and Greed
-Managing risk is managing emotions. The two emotions that govern the market are fear and greed. See the [Fear and Greed Index](https://feargreedmeter.com/).
+Managing risk is about managing emotions. The two emotions that govern the market are fear and greed.  There is even a [Fear and Greed Index](https://feargreedmeter.com/) that you can checkout to see which emotion is currently dominating the market. Greed builds up slowly over time in a rising market while fear erupts suddenly in a crash. Lets explore these emotions in detail.
 
-### Greed == FOMO
-Now some may say "well I am not a greedy person, so I don't have to worry about feeling greedy". When understanding greed in how it relates to the stock market it is best to think of it as FOMO (the fear of missing out). When the economy is booming and your friend says they dumped all of their money into crypto, tech stocks, or meme stocks and doubled their money in a week and you look at your own portfolio and see just a few modest percentage point increases you are going to feel FOMO. This is what is meant by feeling greed in the stock market.
+### Greed: The slow build of Optimism
+In the stock market, greed is a desire for more profits. During a raging bull market it is common to hear stories from neighbors, colleagues, and even strangers on how they've made **enormous** profits in high risk assets. In more recent times, these high risk assets have come in the form of tech stocks, meme stocks, and crypto. Even though your own portfolio has been doing very well it is nothing in comparison to these great success stories. When you start to feel the FOMO and consider getting into these risky assets you are experiencing greed. 
 
-The thing is, if someone already profited on that investment, it is often too late for you to do the same. They bought low and sold high, which means you wil have to buy high and hope to sell higher. (This is how asset bubbles are created). Additionally people who are successful are more likely to share their stories, while those who have lost money are less likely to share their stories. This leads to an overestimation of success and can mislead people into thinking that success is more common than it actually is. This is what is known as *survivorship bias*.
+The thing is, if someone already profited on that investment, it is often too late for you to do the same. They bought low and sold high, which means you will have to buy high and hope to sell higher. When many people give in to this behavior it leads to overvaluation and potential market bubbles. 
+Additionally people who are successful are more likely to share their stories, while those who have lost money are less likely to share their stories. This leads to an overestimation of success and can mislead people into thinking that success is more common than it actually is. This is what is known as *survivorship bias*.
 
-### Greed: What to do and what not to do.
-Regardless, when you see that risky asset climbing and climbing, you are going to feel the FOMO, what should you do and what shouldn't you do? Definitely **DO** **NOT** sell your investments in exchange for the risky asset. If you have the mental discipline the best thing to do is to do nothing. People in the investment community often use the quote "*Don't just do something, stand there!*".
+### Fear: The sudden onset of panic
+Fear, in the stock market, is a response to loss and uncertainty. Unlike Greed, which slowly develops over time during a rising market, fear is triggered by a sharp unexpected drop in the market. While greed trickled into your life over the course of months or years, fear showed up for everyone all at once on the same day. The news of a sharp decline in the market will be on every news channel and everyone at work will be talking about it. This is when you will be compelled to checkout your investment portfolio. You see a devastating drop in your account value and you are tempted to panic sell. You are experiencing fear. ...
 
-Now if you do not have the mental discipline to not buy the risky asset there is another option. Many will recommend allocating up to **but no more than** 5% of your portfolio towards "fun money". This way you can scratch the FOMO itch without taking on too much unneceasry risk. Best case scenario, the risky asset increases, but if it ever becomes more than 5% of your portfolio then you should sell the excess. Worst case scenario up to 5% of your portfolio loses its value and you live and learn.
+Below is a list of some of the most infamous stock market crashes in the United States in the last century.
+- "Black Tuesday" which occurred on October 29, 1929 and lead to the Great Depression
+- "Black Monday" which occurred on October 19, 1987
+- The Dot-Com Bubble in March of 2000.
+- The Great Financial Crisis in September of 2008. 
 
-### Fear: "Dont just do something, stand there".
-When the market inevitably crashes, which it will do during your working life, you are going to feel fear and uncertainty. This market emotion is much more straight forward and identifiable than greed. 
+### "Dont just do something, stand there!"
+When experiencing fear or greed in the market, the best option is always to do nothing. Members of the investing community often use the phrase "Don't just do something, stand there!" to describe this lack of action. However this is easier said than done, so I am going to share some tips on how you can guard yourself against fear and greed.
 
-Thoughts
-- Buy low and sell high, DO NOT sell low.
-- Don't look at your account value, look at the number of shares. It can only go up if you buy and can only go down when you sell.
-- A market crash is a Black Friday sale!
-- If you do end up selling, do not try to time your re-entry into the market.
-- Don't just do something, stand there.
+### Tips for managing Greed.
+It is recommended to allocate up to 5% of your portfolio towards "fun money". Having an allocation towards fun money allows you to scratch the itch of FOMO and invest in high risk positions that you normally wouldn't want to invest your core portfolio in. This could be a speculative stock or commodity you overheard someone talking about or maybe you just have a favorite company and want to own some of their stock. Whatever the reasoning is, you can invest in whatever you want as long as it is 5% or less of your portfolio. In the best case scenario you make a decent profit. Just make sure to sell any excess if the investment incrases to more than 5% of your portfolio. In the Worse case scenario you only lose up to 5% of your portfolio and you live and learn.
+
+### Tips for managing Fear.
+When you are stricken with fear and are considering panic selling you need to change your perspective on what is happeneing to your account. Instead of being hyper-fixated on the account value, focus on how many **shares** you have. The goal of investing is to have as many shares as possible. The only way to increase the number of shares is to buy. And the only way that you can lose shares is if you sell. Both of these actions are within your control. Feel the comfort of having that control during a time that is very much out of your control. Now if the goal of investing is to have as many shares as possible, and the market is currently in a sharp decline, then in a way, the stock market crash can be percieved as huge blowout sale of stocks! 
+
+> "We simply attempt to be fearful when others are greedy and to be greedy only when others are fearful." - Warren Buffet
 
 
 ### Common methods of Asset Allocation
