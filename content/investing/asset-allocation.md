@@ -37,15 +37,15 @@ One of the main pros of age-based asset allocation is its simplicity. You only n
 
 In the former case, the individual might want to transition to bonds sooner in life, as they got a head start and don’t want to wait until their later years to lower the risk of their portfolio. In the latter scenario, those who are older but are just getting started with investing might want to lean more toward stocks as they catch up to where they want to be.
 
-For these individuals, or anyone who may prefer an alternative method, you can use the following algorithm.
+For these individuals, or anyone who may prefer an alternative method, you can use the following formula:
 ```
-Bond Allocation = Percent towards Retirements / 2
+Bond Allocation = Percent Toward Retirement / 2
 ```
-This formula requires you to know your target retirement goal in advance. Although figuring out your retirement goal is outside the scope of this post, a general rule is your annual expenses times 25. So if you spend $50,000 dollars a year, then you will need $1,250,000 (50,000 * 25) dollars to retire.
+This formula requires you to know your target retirement goal in advance. Although determining your retirement goal is outside the scope of this post, a general rule of thumb is to multiply your annual expenses by 25. So, if you spend $50,000 a year, you will need $1,250,000 ($50,000 × 25) to retire.
 
-In this scenario if you have $125,000 in investments, then you are 10% towards retirement. Divided by 2 gives you 5%, so you would have 5% of your investments in bonds and 95% in stocks.
+In this scenario, if you have $125,000 in investments, then you are 10% toward your retirement goal. Dividing by 2 gives you 5%, so you would allocate 5% of your investments to bonds and 95% to stocks.
 
-See the following table to see how one's asset allocation would change over time using the following method.
+See the following table to understand how your asset allocation would change over time using this method.
 | Total Investments | Investment Goal | Percent towards retirement | Stock/Bond Allocation |
 |---|---|---|---|
 | 10,000 | 1,250,000 | < 1% | 100/0 |
