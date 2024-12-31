@@ -1,21 +1,22 @@
 +++
 date = '2024-12-30T12:16:45-05:00'
-draft = true
+draft = false
 title = 'Asset Allocation'
+tags = ["investing"]
 +++
 
 ## What is Asset Allocation?
 In the world of investing, you will often hear the term **"Asset Allocation"**. Asset allocation, as the name suggests, is the distribution of each asset class in your investment portfolio. The two most common asset classes that are considered when building a portfolio are **stocks** and **bonds**. Stocks are the high-risk, high reward asset and bonds, also referred to as **"fixed income"**, are the low-risk, low reward asset. There are other assets classes that exist such as **cash**, **commodities**, **real estate**, **precious metals**, and, in recent years, **crypto currencies**. Understanding how to balance these asset classes is key to building a portfolio that aligns with your financial goals.
 
-## What is the goal of Asset Allocation?
+## What is the Goal of Asset Allocation?
 The goal of **asset allocation** is to manage risk. Each individual has their own **tolerance for risk**, and it is up to the individual to determine how much risk they are willing to take. It can take several years to figure out how much risk you are comfortable with and as you go through different stages of life your risk tolerance will change.
 
 As a general rule of thumb you want to take on more risk in your younger years and less risk in your older years. This is because, when you are younger, you have more time to recover from a market crash. When you are older, you do not want to risk delaying retirement or having to go back to work (if you are already retired) due to a market downturn. Therefore, it's better to have a lower-risk asset allocation.
 
-## Age-based asset allocation methods.
+## Age-Based Asset Allocation Methods
 First, we will look at some of the more common methods of **asset allocation**. As I mentioned earlier, your asset allocation will change throughout your life. Because of this, most mainstream asset allocation methodologies are based on one's age. Prior to the 1990s, the most common rule of thumb was **100 minus your age** in stocks. So, if you are 30 years old, you would have 70% (100 - 30) of your portfolio invested in stocks, and the remaining 30% would be invested in bonds. If you are 60 years old, then you would have 40% (100 - 60) of your portfolio invested in stocks, and the remaining 60% would be invested in bonds.
 
-Over time, the **100 minus your age** rule has shifted to favor more stock exposure. The rule eventually became **110 minus your age** in stocks and is now more commonly **120 minus your age** in stocks. This change was primarily due to interest rates becoming lower in the 1990s and 2000s, and then eventually nearing 0 after the **Great Financial Crisis** in 2008.
+Over time, the **100 minus your age** rule has shifted to favor more stock exposure. The rule eventually became **110 minus your age** in stocks and is now more commonly **120 minus your age** in stocks. This change was primarily due to interest rates becoming lower in the 1990s and 2000s, and then eventually nearing 0 after the Great Financial Crisis in 2008.
 
 Fed Funds Rate from 1974-2024
 ![See Fed Funds Rate from 1974-2024](https://fred.stlouisfed.org/graph/fredgraph.png?g=1CsA3)
@@ -32,7 +33,7 @@ Stock/Bond allocation for age-based methodologies from age 20-70
 | 70 | 30% / 70% | 40% / 60% | 50% / 50% |
 
 
-## Asset Allocation based on percentage of progress toward retirement.
+## Asset Allocation Based on Percentage of Progress Toward Retirement
 One of the main pros of age-based asset allocation is its simplicity. You only need to check your portfolio once a year, usually on your birthday, and update your asset allocation. However, there are a few edge cases where pursuing an age-based asset allocation may not be the best option. On one side of the spectrum, you have those who started investing aggresively at a young age in pursuit of early retirement. Conversely, there are people who didn’t start investing until later in life, for example, in their late 30s or beyond.
 
 In the former case, the individual might want to transition to bonds earlier in life to preserve their wealth as they approach early retirement. In the latter scenario, those who are older but are just getting started with investing might want to lean more toward stocks as they catch up to where they want to be.
