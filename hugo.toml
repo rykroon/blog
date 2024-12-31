@@ -3,8 +3,22 @@ languageCode = 'en-us'
 title = 'Ryan Kroon'
 theme = "PaperMod"
 
+[menu]
+  [[menu.main]]
+    name = "Investing"
+    url = "/investing/"
+
+  [[menu.main]]
+    name = "Programming"
+    url = "/programming/"
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
 
 [params]
+  mainSections = ["investing", "programming"]
+
   env = 'production' # to enable google analytics, opengraph, twitter-cards and schema.
   description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
   author = 'Ryan Kroon'
@@ -13,7 +27,7 @@ theme = "PaperMod"
   # disableThemeToggle = true
   ShowShareButtons = false
   ShowReadingTime = true
-  # disableSpecial1stPost = true
+  disableSpecial1stPost = true
   displayFullLangName = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
