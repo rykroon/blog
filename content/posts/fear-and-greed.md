@@ -1,7 +1,8 @@
 +++
 date = '2024-12-26T10:29:25-05:00'
 draft = true
-title = 'Fear and Greed'
+title = 'Fear and Greed in the Markets'
+tags = ["investing"]
 +++
 
 ## Fear and Greed

@@ -1,8 +1,8 @@
 +++
 date = '2024-12-30T12:16:45-05:00'
 draft = false
-title = 'Asset Allocation'
-tags = ["investing"]
+title = 'Asset Allocation Strategies'
+tags = ["finance", "investing"]
 +++
 
 ## What is Asset Allocation?
