@@ -5,19 +5,10 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
-    name = "Investing"
-    url = "/investing/"
-
-  [[menu.main]]
-    name = "Programming"
-    url = "/programming/"
-
-  [[menu.main]]
     name = "Tags"
     url = "/tags/"
 
 [params]
-  mainSections = ["investing", "programming"]
 
   env = 'production' # to enable google analytics, opengraph, twitter-cards and schema.
   description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
@@ -31,7 +22,7 @@ theme = "PaperMod"
   displayFullLangName = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  ShowCodeCopyButtons = false
+  ShowCodeCopyButtons = true
   ShowRssButtonInSectionTermList = false
   ShowAllPagesInArchive = true
   ShowPageNums = true
