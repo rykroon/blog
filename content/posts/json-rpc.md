@@ -1,6 +1,6 @@
 +++
 date = '2025-01-06T13:08:41-00:00'
-draft = true
+draft = false
 title = 'How JSON-RPC Eases REST API Frustrations'
 categories = ["technology"]
 tags = ["JSON RPC", "REST", "API"]
