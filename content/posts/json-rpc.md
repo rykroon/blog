@@ -1,9 +1,9 @@
 +++
-date = '2024-12-30T13:06:40-05:00'
+date = '2025-01-06T13:08:41-00:00'
 draft = true
 title = 'How JSON-RPC Eases REST API Frustrations'
 categories = ["technology"]
-tags = ["json-rpc", "REST", "web", "API"]
+tags = ["JSON RPC", "REST", "API"]
 +++
 
 In this post, I'd like to share my thoughts on the frustrations of REST APIs and how JSON-RPC can alleviate some of these challenges. While some may argue that comparing JSON-RPC with REST is like comparing apples to oranges, I believe that if both are fruit, they can still be meaningfully compared. Before diving into the details, I’ll assume you're already familiar with REST. However, if you're unfamiliar with JSON-RPC, you can find the specification [here](https://www.jsonrpc.org/specification). It's concise and should take about 10 minutes to read through.
@@ -65,9 +65,12 @@ The most common workaround I see is adding the verb to the path and using the HT
 This issue does not exist when designing a JSON-RPC API. Every request contains a `method` attribute that specifies the function to be executed. You are free to create your own naming convention for the method, allowing for greater flexibility and clarity in how you define API operations. Following the same example as above, a method called `send_verification_code` would be appropriate. This is particularly useful when your API needs to perform non-CRUD operations, as the method names can directly describe the action being taken, rather than relying on convoluted paths or HTTP verbs.
 ___
 
-## Error Responses and Status Codes
-
-### Error Responses
+## Challenges in Structuring Error Responses in REST APIs
 A key component of API design is the structure of error responses. With REST, there is no formal structure defined for error responses. While this isn’t inherently bad, it places the burden on API producers to design their own error responses. For API consumers, there is no guarantee of consistency across different REST APIs.
 
+### Standardized Error Handling in JSON-RPC
 With JSON-RPC, an [Error Object](https://www.jsonrpc.org/specification#error_object) is defined in the specification. It contains two required fields: a `code`, which is always an integer, and a `message`, which is always a string. Additionally, there is an optional `data` attribute, which can either be a primitive or a structured value. The `code` and `message` attributes give every JSON-RPC API a predictable structure, while the `data` attribute provides flexibility for API producers to add custom attributes.
+___
+
+## Conclusion
+Although REST APIs are the norm when designing a web API, they come with several challenges, such as multiple locations for parameters, a limited naming convention for actions, and the lack of a formal error response structure. JSON-RPC resolves many of these issues and can speed up your development efforts. If this post has sparked your curiosity, I highly encourage you to try JSON-RPC.
