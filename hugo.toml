@@ -8,10 +8,14 @@ theme = "PaperMod"
     name = "Tags"
     url = "/tags/"
 
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+
 [params]
 
   env = 'production' # to enable google analytics, opengraph, twitter-cards and schema.
-  description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  description = "Ryan Kroon's blog"
   author = 'Ryan Kroon'
 
   defaultTheme = 'auto'
@@ -28,4 +32,3 @@ theme = "PaperMod"
   ShowPageNums = true
   ShowToc = true
   # comments = false
-  images = [""]
