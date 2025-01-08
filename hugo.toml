@@ -14,6 +14,7 @@ theme = "PaperMod"
 
 [params]
 
+  # https://github.com/adityatelange/hugo-PaperMod/wiki/Variables
   env = 'production' # to enable google analytics, opengraph, twitter-cards and schema.
   description = "Ryan Kroon's blog"
   author = 'Ryan Kroon'
