@@ -1,5 +1,5 @@
 +++
-date = '2025-01-06T13:08:41-00:00'
+date = '2025-01-07T21:06:00-00:00'
 draft = false
 title = 'How JSON-RPC Eases REST Frustrations'
 categories = ["technology"]
