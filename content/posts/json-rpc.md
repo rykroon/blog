@@ -67,4 +67,4 @@ This issue does not exist when designing a JSON-RPC API. Every request contains 
 ___
 
 ## Conclusion
-Although REST is the de facto standard for designing web APIs, it comes with several challenges, ranging from the multiple locations and formats of parameters to the restrictive naming convention of API operations. JSON-RPC resolves many of these issues and can accelerate your development efforts. If this post has sparked your curiosity, I highly encourage you to try JSON-RPC.
+Although REST is the de facto standard for designing web APIs, it comes with several challenges, ranging from the multiple locations and formats of parameters to the restrictive naming convention of API operations. JSON-RPC, being a "_light weight remote procedure call protocol_", resolves many of these issues and can accelerate your development efforts. If this post has sparked your curiosity, I highly encourage you to try JSON-RPC.
