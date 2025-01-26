@@ -1,4 +1,4 @@
-baseURL = 'https://blog.rykroon.com/'
+baseURL = 'https://rykroon.github.io/blog'
 languageCode = 'en-us'
 title = 'Ryan Kroon'
 theme = "PaperMod"
