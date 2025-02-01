@@ -1,34 +1,118 @@
 +++
 date = '2025-01-06T08:43:38-05:00'
 draft = true
-title = 'Discovering Modern Monetary Theory'
+title = 'Modern Monetary Theory'
 +++
 
+Bring up the “Household myth”
 
-- Thinking to myself. "There's no way I could possibly be convinced that the US national debt is a myth."
-- Purchasing the book as a challenge.
-- The logic expressed in the book was undeniable and filled in the gaps of knowledge left by the common narrative.
+What is MMT
+
+Currency user vs currency issuer
+- household myth
+- Comparing government finances with household budgeting is simple and relatable but not comparable.
+
+Government spending
+- spend first, tax later. TABS vs STAB
+
+____________
+
+**Modern Monetary Theory (MMT)** is a heterodox macroeconomic framework that argues a government issuing its own currency—such as the United States—is not fiscally constrained in the same way households or businesses are when it comes to federal spending.
+
+## Currency Users vs Currency Issuers.
+A core principle of MMT is the fundamental distinction between a currency _user_ and a currency _issuer_.
+
+Currency users include regular people like you and me, who work to earn wages; businesses, which provide goods and services to generate revenue; and state and local governments, which rely on taxation. Most people, unsurprisingly, experience money only from the perspective of a currency user.
+
+Examples of currency issuers include the United States, the United Kingdom, and Japan. Each of which has a central bank that issues its own currency. However, not all countries issue their own currency and, therefore, are not currency issuers. A notable example is the countries of the European Union, which all use the Euro, which is issued by the European Central Bank. Additionally, some countries may issue their own currency, but the value is pegged to another country's currency, and therefore they lack what is called _monetary sovereignty_ and are not true currency-issuing governments.
 
 
-In this post, I would like to share how I came to discover Modern Monetary Theory, or MMT, a heterodox macroeconomic framework that profoundly changed the way I view money as well as my sentiment toward the U.S. national debt.
+### How are they different?
+The core characteristic of currency users is that they are fiscally constrained, meaning the resources they can access are limited by the amount of money they have.
 
-MMT emphasizes the distinction between a currency _user_ and a currency _issuer_ and how money works differently between the two. Most people, unsurprisingly, only experience money from the perspective of a currency user. Being a currency user is straightforward: you earn money, spend it, and save what you can. If possible, you avoid debt; if you do have debt, you focus on paying it off.
+As a **currency user**, your financial decisions are governed by the money available to you. Whether you’re an individual, a business, or a local government, you must earn, borrow, or receive money before you can spend it. Running out of money means you cannot acquire more resources unless you find new income or take on debt. This fundamental constraint shapes how currency users manage their finances, making budgeting, saving, and debt management essential aspects of financial stability.
 
-This simplicity, however, often limits our understanding of the broader dynamics of money, especially when it comes to the responsibilities of a currency issuer such as the US Government.
+In contrast, a **currency issuer**—such as the federal government of a nation that controls its own currency—is not fiscally constrained in the same way. Unlike households, businesses, or local governments, a currency-issuing government does not need to earn money before it can spend. Instead, it **spends first and then collects taxes**.
 
-I, like many Americans, carried the fear of believing that the United States could go bankrupt and default on its debt. I no longer carry this fear, not in an "ignorance is bliss" kind of way, but in a "knowledge is power" kind of way.
+However, this does not mean a government can spend without limits. While it cannot "run out" of its own currency, it is constrained by the availability of real resources, such as labor, materials, and productive capacity. If a government issues more money than the economy can support with available resources, inflation can occur.
 
-I'd like to share the story on how I came to discover Modern Monetary Theory.
+## The Mechanics of Issuing Currency
+The idea that a government must spend before it can collect taxes can be tricky to grasp, so let's break it down with an example.
 
-## Backed by the Full Faith and Credit of the United States.
-As an avid index investor, a portion of my portfolio is allocated towards bonds, most of which are US Treasury Securities (Government debt). The purpose of bonds in a portfolio is to reduce the risk that comes with stocks. Treasury Bonds, in particular, are the safest invesment you can make because the interest payments are **backed by the full faith and credit of the United States**.
+Imagine a brand-new colony or settlement-perhaps the United States in the late 1700s or even the first colony on Mars. The settlers are establishing a new government, which will require taxes to “fund” its expenditures. To do this, the government implements a tax that must be paid in its newly created currency. Continuing with the Mars example, the newly established **Martian Government** requires taxes to be paid in **Martian Dollars (MDs)**.
 
-Before I learned of MMT, the idea that Treasury Bonds were considered the safest investment due to "faith" was a bit concerning, but I moved on and accepted this belief. The thing with faith however, is that in the presence of fear, if not backed by knowledge and wisdom, it can be fragile.
+The problem is that people won’t be able to pay their taxes in Martian Dollars for the simple reason that they don’t exist yet. How can anyone pay taxes in MDs if there’s no way to earn them? In order for Martian Dollars to exist in the first place, the new Martian Government must issue the currency into the economy first.
 
-## The Spooky Scary Debt Ceiling.
-In the United States, we have this thing called the **Debt Ceiling**, which is a law limiting the total amount of money the federal government can borrow. When we approach the debt ceiling, a lot of scary things happen. You hear talks of a government shutdown, the government defaulting on its debt, the collapse of the US Dollar, etc. Additionally, this is all exacberated by the news. This happens every few years, it's presented as a big deal, sometimes they actually do shutdown the goverment, but Congress always ends up raising the debt ceiling, a "crisis" is averted, and the people move on and forget about it until it happens again.
+### Issuing and Spending are the same thing.
+So how does a new government issue a currency into existence? Do they simply print money, toss it into the air in the town square, and let people grab it like candy from a piñata? Well, I suppose a government _could_ do that, but it wouldn’t be very productive.
 
-As an investor who expected Treasury Bonds to be the safest invesment, this is very scary! If anything, I should be fearing the next Stock Market collapse, not whether or not the US Government is going to default on its debt and fail to pay the interest on its debt. What happened to "backed by the full faith and credit of the United States"?
+A more effective approach is for the Martian Government to offer jobs to its citizens; for example, they could build infrastructure, maintain life-support systems, or research ways to grow food in the Martian environment; in return, they would be compensated with newly minted Martian Dollars. **Now**, people can earn Martian Dollars to pay their taxes.
 
-In desperate need of answers, I went to the [Bogleheads Reddit page](https://reddit.com/r/bogleheads). I was scrolling through a post filled with people who had the same concerns as I. It was then, that I came across this silly comment suggesting that the debt isn't real and suggested reading a book titled "The Deficit Myth". In my head I thought, "there is no way that I could be convinced that the national debt is a myth." However, I wasn't getting any satisfying answers from the community members so I decided I would give it a shot and bought the book.
+### Taxing and Destroying are the same thing.
+Now, the next question you might be asking yourself is: if the government can simply issue new money to fund its expenditures, why does it even need to collect taxes?
+
+While taxes serve as a source of revenue for non-currency-issuing governments, such as state and local governments, they play a different role for a government that issues its own currency. In this case, the primary function of taxes is to reduce inflation by removing excess money from circulation. If spending creates money, then collecting taxes destroys money. 
+
+I like to imagine this phenomenon as a breath, with money being issued as the inhale and destroyed as the exhale.
+
+## The Government Debt is the Non-Government Surplus.
+Now that we've described the mechanics of money for a currency issuer, let’s apply double-entry accounting to this concept. This will lead us to one of the most **fundamental insights of MMT**, that the government debt is mirrored by the non-government surplus.
+
+In the scenario where the Martian Government issues new currency as wages to hardworking Martians, let’s take a close-up look at the transactions involving two Martians, Alice and Bob.
+
+Alice is an engineer who works on maintaining and repairing the oxygen generators that keep the colony’s atmosphere breathable. Without her expertise, the Martians would have a hard time breathing!
+
+Bob is a terraformer who is part of a team experimenting with ways to enrich Martian soil so that future generations can grow crops instead of relying on Earth imports.
+
+Lets say Alice and Bob each earn 1,000 MDs for their work. Lets see how that would look as a transaction.
+
+**Martian Government Pays Wages to Alice & Bob**
+|Date|Account|Debit (MDs)|Credit (MDs)|Description|
+|---|---|---|---|---|
+|01/01/25|Wages Expense|2,000||Government records labor costs|
+|01/01/25|Currency Issued (Liability)||2,000|New Martian Dollars created to pay wages|
+
+> The Martian Government spends money into existence by paying 2,000 MDs in wages, increasing wages as an expense (debit) and issuing currency as a liability (credit).
+___
+
+**Alice’s & Bob’s Accounts (Receiving Wages)**
+|Date|Account|Debit (MDs)|Credit (MDs)|Description|
+|---|---|---|---|---|
+|01/01/25|Cash (Martian Dollars)|1,000||Alice receives wages|
+|01/01/25|Revenue (Income Earned)||1,000|Alice records earnings|
+|01/01/25|Cash (Martian Dollars)|1000||Bob receives wages|
+|01/01/25|Revenue (Income Earned)||1,000|Bob records earnings|
+
+> Alice and Bob receive 1,000 MDs each, recording it as an increase in cash (debit) and an increase in income (credit).
+___
+
+Now that we have the double-entry accounting laid out for these transactions lets checkout each entity's net worth.
+
+The formula for **Net Worth (Equity)** is:
+> Net Worth = Assets - Liabilities
+___
+
+**Martian Government's Net Worth (Government Sector)**
+|Assets|Liabilities|Net Worth|
+|---|---|---|
+|0 MDs (No assets)|2,000 MDs (Currency Issued)|-2,000 MDs|
+
+The government has issued 2,000 MDs into existence (a liability). However, it has no assets recorded to offset this liability, meaning its net worth is -2,000 MDs.
+___
+
+**Alice’s & Bob’s Net Worth (Non-Government Sector)**
+|Assets|Liabilities|Net Worth|
+|---|---|---|
+|1,000 MDs| 0 MDs|1,000 MDs|
+|1,000 MDs| 0 MDs|1,000 MDs|
+
+Alice and Bob each have 1,000 MDs in cash (assets) and no liabilities, making their net worth 1,000 MDs each.
+___
+
+**Total System Net Worth**
+
+If we sum everything together:
+> (−2,000 MDs) + (1,000 MDs + 1,000 MDs) = 0
+
+This confirms that the system balances to zero. The government’s negative net worth (debt) is mirrored by the private sector’s positive net worth—**this is a fundamental insight of MMT!**
 
