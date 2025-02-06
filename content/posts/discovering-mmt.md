@@ -4,19 +4,6 @@ draft = true
 title = 'Modern Monetary Theory'
 +++
 
-Bring up the “Household myth”
-
-What is MMT
-
-Currency user vs currency issuer
-- household myth
-- Comparing government finances with household budgeting is simple and relatable but not comparable.
-
-Government spending
-- spend first, tax later. TABS vs STAB
-
-____________
-
 **Modern Monetary Theory (MMT)** is a heterodox macroeconomic framework that argues a government issuing its own currency—such as the United States—is not fiscally constrained in the same way households or businesses are when it comes to federal spending.
 
 ## Currency Users vs Currency Issuers.
@@ -24,8 +11,7 @@ A core principle of MMT is the fundamental distinction between a currency _user_
 
 Currency users include regular people like you and me, who work to earn wages; businesses, which provide goods and services to generate revenue; and state and local governments, which rely on taxation. Most people, unsurprisingly, experience money only from the perspective of a currency user.
 
-Examples of currency issuers include the United States, the United Kingdom, and Japan. Each of which has a central bank that issues its own currency. However, not all countries issue their own currency and, therefore, are not currency issuers. A notable example is the countries of the European Union, which all use the Euro, which is issued by the European Central Bank. Additionally, some countries may issue their own currency, but the value is pegged to another country's currency, and therefore they lack what is called _monetary sovereignty_ and are not true currency-issuing governments.
-
+Examples of currency issuers include the United States, the United Kingdom, and Japan. Each of which has a central bank that issues its own currency. However, not all countries issue their own currency and, therefore, are not currency issuers. A notable example is the countries of the European Union, which all use the Euro, which is issued by the European Central Bank. Additionally, some countries may issue their own currency, but the value is pegged to another country's currency, and therefore are not true currency-issuing governments.
 
 ### How are they different?
 The core characteristic of currency users is that they are fiscally constrained, meaning the resources they can access are limited by the amount of money they have.
@@ -34,7 +20,7 @@ As a **currency user**, your financial decisions are governed by the money avail
 
 In contrast, a **currency issuer**—such as the federal government of a nation that controls its own currency—is not fiscally constrained in the same way. Unlike households, businesses, or local governments, a currency-issuing government does not need to earn money before it can spend. Instead, it **spends first and then collects taxes**.
 
-However, this does not mean a government can spend without limits. While it cannot "run out" of its own currency, it is constrained by the availability of real resources, such as labor, materials, and productive capacity. If a government issues more money than the economy can support with available resources, inflation can occur.
+However, this does not mean a government can spend without limits. While it cannot "run out" of its own currency, it is constrained by the availability of real resources, such as labor, materials, and productive capacity. If a government issues more money than the economy can support then inflation can occur.
 
 ## The Mechanics of Issuing Currency
 The idea that a government must spend before it can collect taxes can be tricky to grasp, so let's break it down with an example.
@@ -43,17 +29,15 @@ Imagine a brand-new colony or settlement-perhaps the United States in the late 1
 
 The problem is that people won’t be able to pay their taxes in Martian Dollars for the simple reason that they don’t exist yet. How can anyone pay taxes in MDs if there’s no way to earn them? In order for Martian Dollars to exist in the first place, the new Martian Government must issue the currency into the economy first.
 
-### Issuing and Spending are the same thing.
-So how does a new government issue a currency into existence? Do they simply print money, toss it into the air in the town square, and let people grab it like candy from a piñata? Well, I suppose a government _could_ do that, but it wouldn’t be very productive.
+### Issuing Currency Is Government Spending
+So how does a new government issue a currency into existence? Do they simply print money, toss it into the air in the town square, and let people grab it like candy from a piñata? Well, I suppose a government _could_ do that, but it wouldn’t lead to any productivity.
 
-A more effective approach is for the Martian Government to offer jobs to its citizens; for example, they could build infrastructure, maintain life-support systems, or research ways to grow food in the Martian environment; in return, they would be compensated with newly minted Martian Dollars. **Now**, people can earn Martian Dollars to pay their taxes.
+A more effective approach would be for the Martian Government to offer jobs to its citizens; for example, they could build infrastructure, maintain life-support systems, or research ways to grow food in the Martian environment; in return, they would be compensated with newly minted Martian Dollars. Now that the people have a way to earn Martian Dollars, they will be able to pay their tax obligation.
 
-### Taxing and Destroying are the same thing.
+### Taxation is the Destruction of Money
 Now, the next question you might be asking yourself is: if the government can simply issue new money to fund its expenditures, why does it even need to collect taxes?
 
-While taxes serve as a source of revenue for non-currency-issuing governments, such as state and local governments, they play a different role for a government that issues its own currency. In this case, the primary function of taxes is to reduce inflation by removing excess money from circulation. If spending creates money, then collecting taxes destroys money. 
-
-I like to imagine this phenomenon as a breath, with money being issued as the inhale and destroyed as the exhale.
+While taxes serve as a source of revenue for non-currency-issuing governments, such as state and local governments, they play a different role for a government that issues its own currency. In this case, the primary function of taxes is to reduce inflation by removing excess money from circulation. If spending creates money, then collecting taxes destroys money.
 
 ## The Government Debt is the Non-Government Surplus.
 Now that we've described the mechanics of money for a currency issuer, let’s apply double-entry accounting to this concept. This will lead us to one of the most **fundamental insights of MMT**, that the government debt is mirrored by the non-government surplus.
@@ -63,6 +47,8 @@ In the scenario where the Martian Government issues new currency as wages to har
 Alice is an engineer who works on maintaining and repairing the oxygen generators that keep the colony’s atmosphere breathable. Without her expertise, the Martians would have a hard time breathing!
 
 Bob is a terraformer who is part of a team experimenting with ways to enrich Martian soil so that future generations can grow crops instead of relying on Earth imports.
+
+### Recording the Transactions
 
 Lets say Alice and Bob each earn 1,000 MDs for their work. Lets see how that would look as a transaction.
 
@@ -86,10 +72,15 @@ ___
 > Alice and Bob receive 1,000 MDs each, recording it as an increase in cash (debit) and an increase in income (credit).
 ___
 
+### Calculating Net Worth
+
 Now that we have the double-entry accounting laid out for these transactions lets checkout each entity's net worth.
 
 The formula for **Net Worth (Equity)** is:
-> Net Worth = Assets - Liabilities
+
+```
+Net Worth = Assets - Liabilities
+```
 ___
 
 **Martian Government's Net Worth (Government Sector)**
@@ -97,7 +88,7 @@ ___
 |---|---|---|
 |0 MDs (No assets)|2,000 MDs (Currency Issued)|-2,000 MDs|
 
-The government has issued 2,000 MDs into existence (a liability). However, it has no assets recorded to offset this liability, meaning its net worth is -2,000 MDs.
+> The government has issued 2,000 MDs into existence (a liability). However, it has no assets recorded to offset this liability, meaning its net worth is -2,000 MDs.
 ___
 
 **Alice’s & Bob’s Net Worth (Non-Government Sector)**
@@ -106,13 +97,15 @@ ___
 |1,000 MDs| 0 MDs|1,000 MDs|
 |1,000 MDs| 0 MDs|1,000 MDs|
 
-Alice and Bob each have 1,000 MDs in cash (assets) and no liabilities, making their net worth 1,000 MDs each.
+> Alice and Bob each have 1,000 MDs in cash (assets) and no liabilities, making their net worth 1,000 MDs each.
 ___
 
 **Total System Net Worth**
 
 If we sum everything together:
-> (−2,000 MDs) + (1,000 MDs + 1,000 MDs) = 0
+```
+(−2,000 MDs) + (1,000 MDs + 1,000 MDs) = 0
+```
 
-This confirms that the system balances to zero. The government’s negative net worth (debt) is mirrored by the private sector’s positive net worth—**this is a fundamental insight of MMT!**
+This confirms that the system balances to zero. The government’s negative net worth (debt) is mirrored by the private sector’s positive net worth. What an amazing insight!
 
