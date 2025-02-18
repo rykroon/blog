@@ -1,6 +1,6 @@
 +++
 date = '2025-01-06T08:43:38-05:00'
-draft = false
+draft = true
 title = 'Modern Monetary Theory'
 +++
 
@@ -9,9 +9,11 @@ title = 'Modern Monetary Theory'
 ## Currency Users vs Currency Issuers.
 A core principle of MMT is the fundamental distinction between a currency _user_ and a currency _issuer_.
 
-Currency users include regular people like you and me, who work to earn wages; businesses, which provide goods and services to generate revenue; and state and local governments, which rely on taxation. Most people, unsurprisingly, experience money only from the perspective of a currency user.
+**Currency users** include regular people like you and me, who work to earn wages; businesses, which provide goods and services to generate revenue; and state and local governments, which rely on taxation. Most people, unsurprisingly, experience money only from the perspective of a currency user.
 
-Examples of currency issuers include the United States, the United Kingdom, and Japan. Each of which has a central bank that issues its own currency. However, not all countries issue their own currency and, therefore, are not currency issuers. A notable example is the countries of the European Union, which all use the Euro, which is issued by the European Central Bank. Additionally, some countries may issue their own currency, but the value is pegged to another country's currency, and therefore are not true currency-issuing governments.
+Examples of **currency issuers** include the United States (U.S. dollar), the United Kingdom (British pound), and Japan (Japanese yen), each of which has a central bank responsible for managing its currency. However, not all governments operate this way. Some, like the countries in the Eurozone, use a shared currency, the Euro, which is issued by the European Central Bank. Since these countries do not control their own currency, they function as _currency users_ rather than _currency issuers_.
+
+Other governments issue their own currency but fix its value to another currency or a commodity, limiting their control over monetary policy. For example, some peg their currency to the U.S. dollar, requiring sufficient foreign reserves to maintain the fixed exchange rate. A historical example is the gold standard, where governments could only issue money backed by gold reserves. Because these systems restrict a government’s ability to manage its economy independently, they are not true currency issuers.
 
 ### How are they different?
 The core characteristic of currency users is that they are fiscally constrained, meaning the resources they can access are limited by the amount of money they have.
@@ -37,7 +39,7 @@ A more effective approach would be for the Martian Government to offer jobs to i
 ### Taxation is the Destruction of Money
 Now, the next question you might be asking yourself is: if the government can simply issue new money to fund its expenditures, why does it even need to collect taxes?
 
-While taxes serve as a source of revenue for non-currency-issuing governments, such as state and local governments, they play a different role for a government that issues its own currency. In this case, the primary function of taxes is to reduce inflation by removing excess money from circulation. If spending creates money, then collecting taxes destroys money.
+While taxes serve as a source of revenue for non-currency-issuing governments, such as state and local governments, they play a different role for a government that issues its own currency. In this case, the primary function of taxes is to **reduce inflation** by removing excess money from circulation. Additionally, taxes **create demand** for the currency by requiring individuals and businesses to obtain it in order to meet their tax obligations. If spending creates money, then collecting taxes destroys money, helping to regulate the economy.
 
 ## The Government Debt is the Non-Government Surplus.
 Now that we've described the mechanics of money for a currency issuer, let’s apply double-entry accounting to this concept. This will lead us to one of the most **fundamental insights of MMT**, that the government debt is mirrored by the non-government surplus.
