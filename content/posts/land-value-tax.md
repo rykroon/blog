@@ -1,7 +1,7 @@
 +++
 date = '2025-04-22T17:24:09-05:00'
 draft = true
-title = 'Land Value Tax'
+title = 'Land Value Tax: A Better Way to Fund Society'
 categories = ["economics"]
 tags = ["Land Value Tax", "Georgism"]
 +++
@@ -9,17 +9,17 @@ tags = ["Land Value Tax", "Georgism"]
 
 A Land Value Tax (LVT) is a tax on the unimproved value of land. It is based solely on the location, size, and desirability of the land and excludes any buildings, structures, or other improvements made by the owner.
 
-LVT is rooted in the idea that while people are entitled to the value they produce from their labor and capital, the value of land comes from nature and the surrounding community and therefore should be reinvested into the public.
+LVT is rooted in the idea that while people are entitled to the value they produce from their labor and capital, the value of land comes from nature and the surrounding community and therefore should be reinvested into the public good.
 
 
 ## The Justification for Taxing Land.
 When we examine common forms of taxation—such as income tax, sales tax, and property tax—it becomes clear why many consider these taxes unjust. What someone creates through their own labor rightfully belongs to them. This idea is often summed up by the phrase: *"You are entitled to the fruits of your labor."* If you choose to trade the product of your labor with someone else, that transaction is a voluntary exchange between individuals. And if your labor produces capital—say, a machine that generates further wealth—you are likewise entitled to the returns that capital produces.
 
-Land, however, is fundamentally different. No individual created the land; it existed long before the first humans walked the Earth. Throughout history, land has been something to be claimed and conquered—whether by ancient empires, conquistadors, imperialists, and apparently now, presidents. If we had the ability to create land, perhaps we wouldn't take it from others.
+Land, however, is fundamentally different. No individual created the land; it existed long before the first humans walked the Earth. Throughout history, land has been something to be claimed and conquered—whether by ancient empires, conquistadors, imperialists, or even modern presidents. If we had the ability to create land, perhaps we wouldn't take it from others.
 
-Now suppose someone buys land in a rural area. Years later, the surrounding area is developed with homes, businesses, and infrastructure. Naturally, the value of that person's property will increase. But the important question is: **who created that increase in value?** Assuming that the property owner didn't make any significant capital improvements to their home, the appreciation in value came from the community—through new neighbors, shops, roads, and public services.
+Now suppose someone buys land in a rural area. Years later, the surrounding area develops with homes, businesses, and infrastructure. Naturally, the value of that person’s property will increase. But the important question is: **who created that increase in value?** Assuming the property owner didn’t make any significant improvements, the appreciation came from the community—through new neighbors, shops, roads, and public services.
 
-If businesses open up a few minutes from your home and your home value rises as a result, it’s not because of anything you did. You're benefiting from the efforts of others. And that’s precisely why, as land values increase, so does the LVT. These taxes help return that value back to the community that created it.
+If businesses open up a few minutes from your home and your home value rises as a result, it’s not because of anything you did. You’re benefiting from the efforts of others. And that’s precisely why, as land values increase, so should the LVT. These taxes help return that value back to the community that created it.
 
 
 ## Economic Benefits of Only Taxing Land
