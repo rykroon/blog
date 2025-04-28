@@ -1,9 +1,9 @@
 +++
-date = '2025-04-22T17:24:09-05:00'
-draft = true
+date = '2025-04-28T09:15:00-05:00'
+draft = false
 title = 'Land Value Tax: A Better Way to Fund Society'
 categories = ["economics"]
-tags = ["Land Value Tax", "Georgism"]
+tags = ["land value tax", "tax policy", "georgism"]
 +++
 
 
@@ -12,7 +12,7 @@ A Land Value Tax (LVT) is a tax on the unimproved value of land. It is based sol
 LVT is rooted in the idea that while people are entitled to the value they produce from their labor and capital, the value of land comes from nature and the surrounding community and therefore should be reinvested into the public good.
 
 
-## The Justification for Taxing Land.
+## The Justification for Taxing Land
 When we examine common forms of taxation, such as income tax, sales tax, and property tax, it becomes clear why many consider these taxes unjust. What someone creates through their own labor rightfully belongs to them. This idea is often summed up by the phrase: *"You are entitled to the fruits of your labor."* If you choose to trade the product of your labor with someone else, that transaction is a voluntary exchange between individuals. And if your labor produces capital, say, a machine that generates further wealth, you are likewise entitled to the returns that capital produces.
 
 Land, however, is fundamentally different. No individual created the land; it existed long before the first humans walked the Earth. Throughout history, land has been something to be claimed and conquered, whether by ancient empires, conquistadors, imperialists, or even modern presidents. If we had the ability to create land, perhaps we wouldn't take it from others.
@@ -27,7 +27,7 @@ If the philosophical or ethical justifications for a Land Value Tax haven’t co
 
 There’s a common phrase in discussions about taxation: *"If you want less of something, tax it."* This holds true for most types of taxes, but notably, **not** for land.
 
-Sales tax is a clear example. When everything you buy costs more than the sticker price, people are discouraged from spending. And since one person’s spending is another person’s income, this reduction slows economic activity.
+Sales tax is a clear example. When everything you buy costs more than the sticker price, people are discouraged from spending. And since one person’s spending is another person’s income, this reduces economic activity.
 
 Property tax, as it's commonly implemented, taxes both the value of the land **and** the improvements made to it. When property taxes are high, homeowners may hesitate to invest in upgrades, like finishing a basement, building a deck, or adding a garage, because those improvements increase their tax bill. The result? Fewer construction jobs, less local spending, and reduced economic growth.
 
@@ -48,13 +48,13 @@ For instance, they might hire a contractor to build an accessory dwelling unit (
 That’s a lot of economic activity, without the deadweight loss typically associated with other taxes.
 
 
-## How LVT Discourages Land Speculation.
+## How LVT Discourages Land Speculation
 Another prominent justification for a Land Value Tax is that it reduces land speculation. It is common for individuals to purchase open land with the intention of simply holding it and profiting from price appreciation over several years. Because property taxes are typically low, due to the absence of any structures, the carrying costs remain minimal. As a result, speculators can realize significant profits even after accounting for property taxes.
 
 This practice not only leads to inefficient land use but also allows landowners to benefit from excluding others from accessing the community. An appropriately structured LVT would make it unprofitable to sit on idle land, compelling speculators either to develop the land or sell it to someone who will.
 
 
-## Why LVT Cannot Be Shifted to Tenants.
+## Why LVT Cannot Be Shifted to Tenants
 One common critique of a Land Value Tax is the concern that landlords can pass the cost onto tenants. This is an understandable assumption, as many other forms of taxes, such as corporate taxes or tariffs, can often be shifted onto employees or consumers. However, this is not the case with LVT, because it is a tax specifically on the market rental value of land itself.
 
 Let’s walk through an example: suppose a landlord’s LVT increases, and they attempt to raise the tenant’s rent to cover the additional tax expense. If the tenant agrees to pay the higher rent, it signals to the market that the land’s rental value has increased. As a result, the assessed land value, and thus the landlord’s LVT, would rise again. This cycle could continue until the tenant decides the rental price no longer reflects the value they receive and moves elsewhere.
