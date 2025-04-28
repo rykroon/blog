@@ -2,6 +2,8 @@
 date = '2025-04-22T17:24:09-05:00'
 draft = true
 title = 'Land Value Tax'
+categories = ["economics"]
+tags = ["Land Value Tax", "Georgism"]
 +++
 
 
@@ -15,7 +17,7 @@ When we examine common forms of taxation—such as income tax, sales tax, and pr
 
 Land, however, is fundamentally different. No individual created the land; it existed long before the first humans walked the Earth. Throughout history, land has been something to be claimed and conquered—whether by ancient empires, conquistadors, imperialists, and apparently now, presidents. If we had the ability to create land, perhaps we wouldn't take it from others.
 
-Now suppose someone buys land in a rural area. Years later, the surrounding area is developed with homes, businesses, and infrastructure. Naturally, the value of that person's property will increase. But the important question is: **who created that increase in value?** Assuming that the property owner didn't make any significant capital improvements to their home, the value appreciation came from the community—through new neighbors, shops, roads, and public services.
+Now suppose someone buys land in a rural area. Years later, the surrounding area is developed with homes, businesses, and infrastructure. Naturally, the value of that person's property will increase. But the important question is: **who created that increase in value?** Assuming that the property owner didn't make any significant capital improvements to their home, the appreciation in value came from the community—through new neighbors, shops, roads, and public services.
 
 If businesses open up a few minutes from your home and your home value rises as a result, it’s not because of anything you did. You're benefiting from the efforts of others. And that’s precisely why, as land values increase, so does the LVT. These taxes help return that value back to the community that created it.
 
@@ -45,3 +47,16 @@ For instance, they might hire a contractor to build an accessory dwelling unit (
 
 That’s a lot of economic activity—without the deadweight loss typically associated with other taxes.
 
+
+## How LVT Discourages Land Speculation.
+Another prominent justification for a Land Value Tax (LVT) is that it reduces land speculation. It is common for individuals to purchase open land with the intention of simply holding it and profiting from price appreciation over several years. Because property taxes are typically low—due to the absence of any structures—the carrying costs remain minimal. As a result, speculators can realize significant profits even after accounting for property taxes.
+
+This practice not only leads to inefficient land use but also allows landowners to benefit from excluding others from accessing the community. An appropriately structured LVT would make it unprofitable to sit on idle land, compelling speculators either to develop the land or to sell it to someone who will.
+
+
+## Why LVT Cannot Be Shifted to Tenants.
+One common critique of a Land Value Tax (LVT) is the concern that landlords can pass the cost onto tenants. This is an understandable assumption, as many other forms of taxes—such as corporate taxes or tariffs—can often be shifted onto employees or consumers. However, this is not the case with LVT, because it is a tax specifically on the market rental value of land itself.
+
+Let’s walk through an example: suppose a landlord’s LVT increases, and they attempt to raise the tenant’s rent to cover the additional tax expense. If the tenant agrees to pay the higher rent, it signals to the market that the land’s rental value has increased. As a result, the assessed land value—and thus the landlord’s LVT—would rise again. This cycle could continue until the tenant decides the rental price no longer reflects the value they receive and moves elsewhere.
+
+In this way, the market effectively prevents landlords from successfully passing LVT onto tenants. Instead, LVT encourages landowners to use their land efficiently or lower their price expectations to match what tenants are willing to pay.
