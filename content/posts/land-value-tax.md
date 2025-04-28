@@ -23,19 +23,19 @@ If businesses open up a few minutes from your home and your home value rises as 
 
 
 ## Economic Benefits of Only Taxing Land
-If the philosophical or ethical justifications for Land Value Tax haven’t convinced you, perhaps the economic case will.
+If the philosophical or ethical justifications for a Land Value Tax haven’t convinced you, perhaps the economic case will.
 
-There’s a common phrase in discussions about taxation: *“If you want less of something, tax it.”* This holds true for most types of taxes—but notably, **not** for land.
+There’s a common phrase in discussions about taxation: *"If you want less of something, tax it."* This holds true for most types of taxes—but notably, **not** for land.
 
-Sales tax is a great example. It's easy to see that when everything you buy is more expensive than the sticker price, people are discouraged from spending. And since one person’s spending is another person’s income, this reduction in spending leads to a slowdown in economic activity.
+Sales tax is a clear example. When everything you buy costs more than the sticker price, people are discouraged from spending. And since one person’s spending is another person’s income, this reduction slows economic activity.
 
-Property tax, as it's commonly implemented, taxes both the value of the land **and** the improvements made to it. When property taxes are high, homeowners may hesitate to invest in upgrades—like finishing a basement, building a deck, or adding a garage—because those improvements increase their tax bill. The result? Fewer construction jobs, less local spending, and reduced economic activity.
+Property tax, as it's commonly implemented, taxes both the value of the land **and** the improvements made to it. When property taxes are high, homeowners may hesitate to invest in upgrades—like finishing a basement, building a deck, or adding a garage—because those improvements increase their tax bill. The result? Fewer construction jobs, less local spending, and reduced economic growth.
 
-Income taxes follow the same logic. When people are taxed on what they earn, they have less money to spend. And again, if people are spending less, others are earning less.
+Income taxes follow the same logic. When people are taxed on what they earn, they have less to spend. And again, if people are spending less, others are earning less.
 
 Now here’s the part you’ve been waiting for: what happens when you **tax land**?
 
-If you were worried that your property might vanish into a black hole, rest easy—your land isn’t going anywhere. In fact, taxing land encourages more economic activity. When a landowner's tax bill rises—say, because their community has grown and their land is now more valuable—they're incentivized to make the most of that land to offset the tax burden.
+If you were worried your property might vanish into a black hole, rest easy—your land isn’t going anywhere. In fact, taxing land encourages more economic activity. When a landowner's tax bill rises—say, because their community has grown and their land is now more valuable—they're incentivized to make the most of that land to offset the tax burden.
 
 For instance, they might hire a contractor to build an accessory dwelling unit (ADU) and rent it out. In this scenario:
 
@@ -49,13 +49,13 @@ That’s a lot of economic activity—without the deadweight loss typically asso
 
 
 ## How LVT Discourages Land Speculation.
-Another prominent justification for a Land Value Tax (LVT) is that it reduces land speculation. It is common for individuals to purchase open land with the intention of simply holding it and profiting from price appreciation over several years. Because property taxes are typically low—due to the absence of any structures—the carrying costs remain minimal. As a result, speculators can realize significant profits even after accounting for property taxes.
+Another prominent justification for a Land Value Tax is that it reduces land speculation. It is common for individuals to purchase open land with the intention of simply holding it and profiting from price appreciation over several years. Because property taxes are typically low—due to the absence of any structures—the carrying costs remain minimal. As a result, speculators can realize significant profits even after accounting for property taxes.
 
-This practice not only leads to inefficient land use but also allows landowners to benefit from excluding others from accessing the community. An appropriately structured LVT would make it unprofitable to sit on idle land, compelling speculators either to develop the land or to sell it to someone who will.
+This practice not only leads to inefficient land use but also allows landowners to benefit from excluding others from accessing the community. An appropriately structured LVT would make it unprofitable to sit on idle land, compelling speculators either to develop the land or sell it to someone who will.
 
 
 ## Why LVT Cannot Be Shifted to Tenants.
-One common critique of a Land Value Tax (LVT) is the concern that landlords can pass the cost onto tenants. This is an understandable assumption, as many other forms of taxes—such as corporate taxes or tariffs—can often be shifted onto employees or consumers. However, this is not the case with LVT, because it is a tax specifically on the market rental value of land itself.
+One common critique of a Land Value Tax is the concern that landlords can pass the cost onto tenants. This is an understandable assumption, as many other forms of taxes—such as corporate taxes or tariffs—can often be shifted onto employees or consumers. However, this is not the case with LVT, because it is a tax specifically on the market rental value of land itself.
 
 Let’s walk through an example: suppose a landlord’s LVT increases, and they attempt to raise the tenant’s rent to cover the additional tax expense. If the tenant agrees to pay the higher rent, it signals to the market that the land’s rental value has increased. As a result, the assessed land value—and thus the landlord’s LVT—would rise again. This cycle could continue until the tenant decides the rental price no longer reflects the value they receive and moves elsewhere.
 
