@@ -1,70 +1,61 @@
 +++
 date = '2025-05-03T08:11:07-04:00'
 draft = true
-title = 'Zero Interest Rate Policy'
+title = 'The Case for a Zero Interest Rate Policy'
 categories=["economics"]
 tags=["MMT", "ZIRP"]
 +++
 
 
-A Zero Interest Rate Policy (ZIRP) occurs when a central bank sets its benchmark interest rate at or near 0%. I argue in favor of ZIRP, as interest rates above zero can distort markets, suppress economic activity, and exacerbate wealth inequality.
+A **Zero Interest Rate Policy (ZIRP)** occurs when a central bank sets its benchmark interest rate at or near 0%. I argue in favor of ZIRP, as interest rates above zero can distort markets, suppress economic activity, and exacerbate wealth inequality.
 
+Before diving into why interest rates should be zero, let’s first take a moment to understand the system that surrounds them: **Who sets interest rates?** And **why do they set them?**
 
+## Understanding the Federal Funds Rate
+In the United States, the **Federal Reserve** sets the benchmark interest rate known as the **federal funds rate**. The Fed operates under what is called a “**dual mandate**” from Congress: it is tasked with promoting maximum employment and maintaining stable prices — in other words, keeping both **inflation** and **unemployment** in check. To achieve these goals, the Fed relies primarily on one tool: the federal funds rate.
 
-## The Diverging Impact of High and Low Interest Rates
-These dynamics are most clearly observed when comparing the circumstances of a working-class citizen and an ultra-wealthy individual in high versus low interest rate environments.
+When inflation is high, the Fed raises interest rates. This is intended to cool down the economy. Higher rates discourage consumers and businesses from borrowing money due to the increased cost of debt. At the same time, they encourage saving, since the return on savings accounts and fixed-income investments rises. The result is **less spending, less investment, and slower economic activity** — all of which can help reduce inflation.
 
-When the Federal Reserve raises the federal funds rate, interest on Treasury securities increases, as does the interest earned in savings accounts at commercial banks. Conversely, the cost of borrowing on business loans, mortgages, and student loans also rises.
+Conversely, when unemployment is high — typically during a recession or economic downturn — the Fed lowers interest rates. Cheaper borrowing costs encourage both consumers and businesses to take out loans and invest. This leads to **more capital investment, more business activity, and more hiring**. Low interest rates also discourage saving, since the returns are negligible and often don’t keep pace with inflation, nudging people to **spend or invest their money instead of letting it sit idle**.
 
-From the perspective of a working-class citizen, this environment makes taking risks more difficult. For example, consider someone who wants to start their own business but lacks the start-up capital. They might consider taking out a loan, but if interest rates are too high, the risk may outweigh the potential reward, and they may abandon the idea altogether. This is a clear instance where economic activity is discouraged.
+## The Diverging Realities of Monetary Policy
+But interest rates aren’t just economic levers, they have real, tangible effects on people’s lives.
+To understand the consequences of interest rate policy, let’s compare how it affects two very different individuals: a working-class citizen and an ultra-wealthy investor.
 
-Now consider the ultra-wealthy individual—someone with tens or hundreds of millions of dollars. They can simply place their money in a savings account and earn interest. For instance, depositing $10 million at a 5% interest rate yields a risk-free income of $500,000 per year. In this scenario, wealth passively generates more wealth.
+### The Working Class: Disciplined into Recession
+During a high-interest rate environment, many working-class citizens are discouraged from spending — either because they’re burdened with debt they’re trying to pay down before it becomes unmanageable, or because they’re debt-free and looking to earn a little extra by putting money into a savings account. On an individual level, these are responsible choices. **Paying off debt and saving money are both good personal finance decisions**.
 
-Now let’s look at these individuals’ circumstances in a low or zero interest rate environment.
+But when monetary policy pushes a large portion of the population to begin doing this all at once, it creates ripple effects throughout the broader economy.
 
-The working-class citizen, motivated to work hard and take entrepreneurial risks, can now borrow money to launch a small business without the same fear of being crushed by debt. This encourages economic activity at the grassroots level.
+With consumer spending down — and remembering that **one person’s spending is another person’s income** — businesses begin to see declining profits. As revenues fall, businesses often respond by laying off workers. Those newly unemployed individuals now have **even less** ability to spend or service their debts, creating a feedback loop that can spiral into a recession or even a depression.
 
-Meanwhile, the ultra-wealthy individual is no longer earning easy, risk-free income simply for having capital. To grow their wealth, they must seek returns through investments in the private sector, for example, in the form of venture capital. While riskier, these investments stimulate innovation and broader economic growth.
+From the standpoint of fighting inflation, this may look like success — after all, prices stop rising when spending collapses. But at what cost? We may avoid inflation, but we trade it for unemployment, instability, and economic suffering for the majority.
 
+### The Wealthy: Rewarded for Standing Still
+Now let’s look at a very different kind of individual: an ultra-wealthy investor with tens or even hundreds of millions of dollars. In a high-interest rate environment, these individuals can **pull their money out of riskier investments** like stocks or venture capital and instead earn a generous, **risk-free** return by parking it in government bonds or savings accounts.
 
-## No Risk, No Reward.
-When the Federal Reserve raises interest rates, it increases the demand for Treasury securities such as bonds, notes, and bills. In orthodox economics, this process is described as lending money to the U.S. government. However, from a Modern Monetary Theory (MMT) perspective, one could argue that lending a currency-issuing government its own currency is essentially a zero-risk investment. The currency issuer—in this case, the U.S. government—can always meet its interest obligations by creating more money. This is why we often refer to the interest rate on these securities as the "risk-free rate."
+For example, someone with $10 million can earn **$500,000 a year** simply by sitting on their money at a 5% interest rate.
 
-If the investment is truly risk-free, as I believe it is, then it follows that it should not offer a substantial reward. For comparison, stocks are typically considered high-risk, high-reward assets. Corporate bonds might be seen as low-risk, low-reward. Treasury bonds, under this framework, would be best described as no-risk, no-reward.
+Because the ultra-wealthy make up a small minority, their increased financial security and potential for spending doesn’t stimulate the economy in the same way that widespread working-class spending does.
 
-## A Counterpoint to Inflation Risk
-Some argue that while Treasury securities may be free of default risk, they still carry inflation risk, the danger that the value of your returns will be eroded by rising prices. But this critique assumes that interest-bearing Treasury securities are a necessary fixture of the financial system.
+And crucially, **it doesn’t drive inflation**. The spending capacity of the ultra-wealthy is already maxed out — they aren’t suddenly buying more bread or rent or fuel just because their passive income increased. So this becomes a kind of stealth redistribution: a windfall to the wealthy in the name of fighting inflation, with no meaningful inflationary pressure in return.
 
-From an MMT perspective, that's not necessarily the case.
+### The Working Class: Empowered to Spend, Invest, and Participate
+In a zero to low interest rate environment, the financial conditions for working-class citizens shift meaningfully. Instead of being pressured to hoard cash in savings accounts that finally offer a decent yield, people are incentivized to put their money to work — whether by spending on goods and services, investing in their education or small businesses, or even entering the housing market.
 
-If interest rates were set to zero and remained there, the demand for Treasuries could vanish altogether. After all, if there's neither risk nor reward, why buy them? And if the federal government doesn't need to borrow its own currency—which it doesn't—then why continue issuing them?
+The psychological and financial burden of debt also eases. Lower interest on mortgages, student loans, and credit cards frees up income for other uses. While paying off debt remains important, it no longer feels like an emergency driven by compounding interest. This breathing room allows people to plan for the future, not just survive the present.
 
-In this scenario, the government could simply stop offering Treasury securities entirely. The "risk-free" asset class would disappear, and with it, the supposed inflation risk that comes from holding them. People could still save in the form of cash or bank deposits, but the mechanism of earning interest as compensation for inflation would no longer be relevant—especially in a world where monetary policy is managed through fiscal spending rather than interest rate manipulation.
+Businesses benefit as well. With cheaper access to credit, they’re more likely to expand operations, launch new projects, and hire more workers. This creates a reinforcing loop: more jobs mean more income, which means more spending, which supports more business growth.
 
-In short, inflation risk tied to Treasuries is only relevant if Treasuries continue to exist as a tool of economic policy. If they are phased out or rendered obsolete in a zero-interest world, that risk disappears along with them.
+Low interest rates, in this context, don’t just stimulate demand — they increase participation. They empower everyday people to act as economic agents, not just economic costs to be managed.
 
+### The Wealthy: Risk, Return, and Real Investment
+For the ultra-wealthy, low interest rates pose a different challenge. When safe, risk-free returns disappear, passivity is no longer rewarded. Simply parking money in treasury bonds or savings accounts no longer generates effortless income. To maintain or grow their wealth, high-net-worth individuals must seek out investments with real-world risk and potential: startups, real estate development, research ventures, infrastructure funds, and more.
 
+This shift isn’t just about portfolio strategy — it has macroeconomic consequences. When wealthy capital must take risk to earn return, that capital tends to flow into projects that actually produce something: new technology, new companies, new jobs. Low rates push capital toward investment, not extraction.
 
+Yes, some of these ventures will fail. But the ultra-rich are best equipped to absorb those losses. In a zero-rate world, their economic role shifts from collecting interest to underwriting progress. They become stakeholders in a dynamic economy, not just rentiers sitting atop it.
 
+And importantly, their spending — even if it increases — does little to stoke inflation. Unlike the working class, they aren’t suddenly buying more bread, gasoline, or rent. Their lifestyle doesn’t scale with income. So while low rates ask more of them in terms of risk, they don’t introduce much inflationary pressure in return.
+_________
 
-
-
-
-
-
-
-
-
-## Ideas
-Observe Zero Interest Rate Policy through the lens of Modern Monetary Theory.
-
-Explain how the circumstances between an ultra wealthy individual and a working class individual are different depending on when interet rates are high versus when they are low.
-
-In a high interest rate environment, people are given money (interest) in proportion to how much money they already have. The ultra wealthy are given risk-free money just for already having money. The working class are discouraged from borrowing, taking risks, and potentially starting new businesses.
-
-In a low/no interest rate environment, people are given little to no money in the form of interest. If the ultra wealthy want to further increase their wealth, they must invest their money into private businesses, which can be risky, but it's the only way to make more money. Their investment stimulates the economy. For a working class individual, they are encouraged to borrow and take risks, which stimulates the economy.
-
-
-In addition to high-risk high reward and low-risk low reward, there is also no risk no reward. Lending the government it's own currency in exchange for a fixed income asset has no risk and therefore it can be argued that because it conatins no risk, it should not have a reward.
-
-An additional point, for those that are in favor of free markets. The Federal funds rate distorts the market of lending and borrowing.
