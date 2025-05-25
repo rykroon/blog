@@ -59,17 +59,26 @@ Let me share an analogy that I think captures the problem with how we handle inf
 
 Imagine inflation as a person having a panic attack. The ideal response would be to help them calm down—steady their breathing, reduce stress, maybe apply a targeted treatment. The goal is to restore balance without causing further harm.
 
-Now consider how we often use the federal funds rate to address inflation. It’s like trying to stop the panic attack by suffocating the person until they pass out. Sure, they’re no longer panicking—but now they’re unconscious. That’s the economic equivalent of a recession. If you keep the pressure on too long, it becomes a depression.
+Now consider how we often use the federal funds rate to address inflation. It’s like trying to stop the panic attack by suffocating the person until they pass out. Sure, they’re no longer panicking, but now they’re unconscious. That’s the economic equivalent of a recession. If you keep the pressure on too long, it becomes a depression.
 
 I’m not claiming to have all the answers for managing inflation. But I do think we need to question whether this is the right tool for the job. Using interest rates to fight inflation can end up harming the very people and activity we rely on to keep the economy alive.
 
 ## Part Two: Why Pay Interest on “Risk‑Free” Debt?
-Modern Monetary Theory reminds us that when the U.S. Treasury sells bonds, it isn’t financing its spending the way a household finances a mortgage. As the issuer of dollars, the federal government can always create the money needed to meet dollar‑denominated obligations. Default risk is zero.
+Modern Monetary Theory reminds us that when the U.S. government issues Treasury securities, it isn’t borrowing in the traditional sense. Unlike households or businesses, a currency-issuing government can always meet its fiscal obligations. It cannot run out of dollars. This makes the risk of default effectively zero.
 
-If the debt is risk‑free, why reward it?
+And if there’s no risk, why should there be a reward?
 
-Markets already price risk: stocks offer high returns for high uncertainty; investment‑grade corporate bonds offer modest returns for modest risk. Treasuries, also known as the **risk‑free asset**, sits at the bottom. Logically, their yield should hover at zero. Anything higher is a subsidy to those who already have wealth.
+In financial markets, returns compensate for risk. Stocks offer higher potential returns because they carry high uncertainty. Investment-grade corporate bonds provide modest returns for moderate risk. Treasury securities, however, are treated as “risk-free.” By that logic, their return, the so-called “risk-free rate”, should be zero. Anything above that is effectively a subsidy: a payment to wealth holders for parking their money in the safest asset in existence.
 
-The only genuine hazard is **inflation risk**. But we have purpose‑built instruments, such as I Bonds and Treasury Inflation-Protected Securities (TIPS), that protect purchasing power without cranking up the economy‑wide interest rate.
+And there’s a deeper question: if the government doesn’t need to borrow its own currency to begin with, why offer this financial instrument at all?
 
-Viewed this way, Treasury securities are less about funding government operations and more about **giving savers a safe parking spot**. That aim doesn’t justify paying out returns determined by policymakers, especially when those returns are divorced from any actual risk. A truly risk‑free asset should offer security, not a guaranteed payday.
+To be fair, there is one legitimate concern: inflation. Treasury securities carry no default risk, but they do carry inflation risk. That’s why inflation-adjusted instruments like Series I Bonds and Treasury Inflation-Protected Securities (TIPS) exist. These offer savers a way to preserve purchasing power without the government artificially inflating yields across the board. In that context, the real (inflation-adjusted) return on government debt can be zero, with the nominal yield simply tracking inflation.
+
+Seen this way, Treasury securities aren’t tools for funding government spending. They’re a public service for savers. And that’s fine. But their role doesn’t justify guaranteed payouts, especially when the government assumes no risk. A truly risk-free asset should offer peace of mind, not passive income.
+
+## Conclusion
+At its core, interest is a reward for risk. But when the federal government, who issues its own currency, pays interest on debt that carries no risk of default, we’re not compensating for risk. We’re reinforcing a financial structure that benefits wealth holders simply for holding wealth.
+
+Zero interest rates aren’t a radical idea, they’re a rational recalibration. They reflect the reality that public debt isn’t like household debt, and that financial markets don’t need government subsidies to function effectively. Most importantly, they shift our economic priorities away from rewarding passive capital and toward encouraging real investment, widespread participation, and broad-based prosperity.
+
+A Zero Interest Rate Policy isn’t about denying returns. It’s about aligning them with actual risk, supporting the economy’s most productive participants, and building a financial system that works for everyone.
