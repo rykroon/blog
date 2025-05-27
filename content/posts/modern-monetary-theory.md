@@ -3,7 +3,7 @@ date = '2025-02-17T21:33:00-05:00'
 draft = false
 title = 'Modern Monetary Theory'
 categories=["economics"]
-tags=["Modern Monetary Theory", "MMT", "monetary policy", "economics"]
+tags=["Modern Monetary Theory", "MMT", "monetary policy"]
 +++
 
 **Modern Monetary Theory (MMT)** is a heterodox macroeconomic framework that argues a government issuing its own currency—such as the United States—is not fiscally constrained in the same way households or businesses are when it comes to federal spending.
