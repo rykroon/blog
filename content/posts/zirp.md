@@ -22,7 +22,7 @@ Conversely, when unemployment is high, typically during a recession or economic 
 Interest rates are often treated as abstract tools for managing inflation and employment, but their effects are anything but abstract. When the Federal Reserve moves its benchmark rate, the impact ripples out unevenly across the economy. To really understand what’s at stake, we need to shift from the bird’s-eye view to the ground level, where interest rate policy shapes the lives of everyday workers very differently than it does the ultra-wealthy.
 
 ### The Working Class: Disciplined into Recession
-Imagine a single mother in her 30s working two jobs to cover rent, groceries, and daycare. She’s managed to stay out of credit card debt, but she’s constantly one unexpected expense away from falling behind. When interest rates rise, she’s told it’s for the good of the economy—to tame inflation. But on the ground, the effect is suffocating.
+Imagine a single mother in her 30s working two jobs to cover rent, groceries, and daycare. She’s managed to stay out of credit card debt, but she’s constantly one unexpected expense away from falling behind. When interest rates rise, she’s told it’s for the good of the economy, to tame inflation. But on the ground, the effect is suffocating.
 
 Her car loan gets more expensive. The mortgage she was hoping to qualify for suddenly feels out of reach. Even small business loans; her long-shot plan to open a home-based baking service, become much more expensive. So she tightens her budget. She skips dinners out, cancels her streaming services, puts off repairs.
 
@@ -35,7 +35,7 @@ From the Federal Reserve’s perspective, inflation is easing. But down at stree
 ### The Wealthy: Rewarded for Standing Still
 Now picture a wealthy investor, someone who doesn’t work for a living, because they don’t have to. Maybe they sold a company a few years ago, walked away with $50 million, and now spend their days managing a private portfolio from a beach house or penthouse office.
 
-When interest rates rise, it’s not a threat. It’s a windfall. They don’t need to chase risky investments or roll the dice on startups anymore. They simply move their money into government bonds or high-yield savings accounts. At 5%, that $50 million earns them $2.5 million a year—without lifting a finger, without taking on risk, and without contributing anything to real economic activity.
+When interest rates rise, it’s not a threat. It’s a windfall. They don’t need to chase risky investments or roll the dice on startups anymore. They simply move their money into government bonds or high-yield savings accounts. At 5%, that $50 million earns them $2.5 million a year, without lifting a finger, without taking on risk, and without contributing anything to real economic activity.
 
 This kind of passive income doesn’t change how they live. They’re already flying first class, already driving luxury cars, already eating at Michelin-star restaurants. An extra 2.5 million a year doesn’t lead to more spending, it just gets reinvested or added to their estate.
 

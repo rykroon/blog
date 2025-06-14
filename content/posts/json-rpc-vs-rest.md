@@ -10,7 +10,7 @@ In this post, I'd like to share my thoughts on the frustrations of REST APIs and
 ___
 
 ## REST APIs Are Burdened by Dispersed Parameters
-Parameters in a REST API are located in several different parts of the HTTP request. In addition to body parameters, there are path parameters, and in the case of `GET` requests, query parameters. While most developers likely do not consider this an inconvenience—probably due to the acceptance of the status quo—I would argue that once you experience the simplicity of JSON-RPC, you’ll wonder why you dealt with this inconvenience yourself.
+Parameters in a REST API are located in several different parts of the HTTP request. In addition to body parameters, there are path parameters, and in the case of `GET` requests, query parameters. While most developers likely do not consider this an inconvenience, probably due to the acceptance of the status quo, I would argue that once you experience the simplicity of JSON-RPC, you’ll wonder why you dealt with this inconvenience yourself.
 
 ### Quirky Query Parameters
 If you want to retrieve a resource from a REST API endpoint, you must use the HTTP `GET` method. Although _technically_ possible, it is [not recommended](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET) to include content in the body of an HTTP `GET` request; therefore, any parameters must be sent in the query string portion of the URL.
@@ -47,7 +47,7 @@ from urllib.parse import parse_qs
 ### Pesky Path Parameters
 In REST, Path parameters are often used to identify a specific resource. For example, the path `/api/v1/books/123` would refer to the `book` object with an ID of `123`. On the server side, this requires extracting the parameter from the URL.
 
-In most cases, you’re likely using a framework in your programming language of choice that can automatically extract the parameters and cast them to the appropriate type, so this usually isn’t an issue. However, if you don’t have access to a framework—perhaps due to restrictions like closed-source requirements or operating in a memory-constrained environment—extracting that parameter manually can be tedious, at least when compared to the simplicity of a parameter in a JSON object.
+In most cases, you’re likely using a framework in your programming language of choice that can automatically extract the parameters and cast them to the appropriate type, so this usually isn’t an issue. However, if you don’t have access to a framework, perhaps due to restrictions like closed-source requirements or operating in a memory-constrained environment, extracting that parameter manually can be tedious, at least when compared to the simplicity of a parameter in a JSON object.
 
 In the Go programming language, the ability to [extract path parameters](https://go.dev/blog/routing-enhancements) using just the standard library was only recently added.
 
@@ -58,7 +58,7 @@ Before I conclude this section on parameters, I want to mention that there is cu
 ___
 
 ## When CRUD Hits the Fan
-You will often encounter the acronym **CRUD** when dealing with REST APIs. It stands for **C**reate, **R**etrieve, **U**pdate, and **D**elete—the typical actions performed on a resource. These actions are represented by the following HTTP methods, respectively: `POST`, `GET`, `PUT`/`PATCH`, and `DELETE`. However, when you need to perform an action that _isn't_ part of the typical CRUD operations—say _calculate_, _send_, _verify_, _transfer_, etc.—you’ll need to get creative with your implementation, as there isn't a formal standard for handling these types of situations.
+You will often encounter the acronym **CRUD** when dealing with REST APIs. It stands for **C**reate, **R**etrieve, **U**pdate, and **D**elete, the typical actions performed on a resource. These actions are represented by the following HTTP methods, respectively: `POST`, `GET`, `PUT`/`PATCH`, and `DELETE`. However, when you need to perform an action that _isn't_ part of the typical CRUD operations, say _calculate_, _send_, _verify_, _transfer_, etc, you’ll need to get creative with your implementation, as there isn't a formal standard for handling these types of situations.
 
 The most common workaround I see is adding the verb to the path and using the HTTP `POST` method. For example, if you were to create an endpoint that sends a verification code, it might look like this: `POST /api/v1/verification/send`. While this is a reasonable workaround, it never sat well with me. I would often spend a lot of mental energy figuring out the most _RESTful_ way to implement this edge case not realizing that the problem I was trying to solve could not be addressed with REST.
 

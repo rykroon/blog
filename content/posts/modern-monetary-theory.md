@@ -6,7 +6,7 @@ categories=["economics"]
 tags=["Modern Monetary Theory", "MMT", "monetary policy"]
 +++
 
-**Modern Monetary Theory (MMT)** is a heterodox macroeconomic framework that argues a government issuing its own currency—such as the United States—is not fiscally constrained in the same way households or businesses are when it comes to federal spending.
+**Modern Monetary Theory (MMT)** is a heterodox macroeconomic framework that argues a government issuing its own currency, such as the United States, is not fiscally constrained in the same way households or businesses are when it comes to federal spending.
 
 ## Currency Users vs Currency Issuers.
 A core principle of MMT is the fundamental distinction between a currency _user_ and a currency _issuer_.
@@ -22,7 +22,7 @@ The core characteristic of currency users is that they are fiscally constrained,
 
 As a **currency user**, your financial decisions are governed by the money available to you. Whether you’re an individual, a business, or a local government, you must earn, borrow, or receive money before you can spend it. Running out of money means you cannot acquire more resources unless you find new income or take on debt. This fundamental constraint shapes how currency users manage their finances, making budgeting, saving, and debt management essential aspects of financial stability.
 
-In contrast, a **currency issuer**—such as the federal government of a nation that controls its own currency—is not fiscally constrained in the same way. Unlike households, businesses, or local governments, a currency-issuing government does not need to earn money before it can spend. Instead, it **spends first and then collects taxes**.
+In contrast, a **currency issuer**, such as the federal government of a nation that controls its own currency, is not fiscally constrained in the same way. Unlike households, businesses, or local governments, a currency-issuing government does not need to earn money before it can spend. Instead, it **spends first and then collects taxes**.
 
 However, this does not mean a government can spend without limits. While it cannot "run out" of its own currency, it is constrained by the availability of real resources, such as labor, materials, and productive capacity. If a government issues more money than the economy can support then inflation can occur.
 
@@ -117,7 +117,7 @@ This confirms that the system balances to zero. The government’s negative net 
 ## Why Understanding MMT Matters
 Understanding Modern Monetary Theory (MMT) offers a new way to think about government spending, debt, and economic policy. MMT challenges the common idea that the federal government should manage its budget like a household. Unlike households, governments that issue their own currency operate under different rules.
 
-According to MMT, the real limits on government spending are the availability of resources—like labor, materials, and technology—and the potential for inflation, rather than budget deficits. This perspective shifts the focus from asking, “How will we pay for it?” to “Do we have the resources to support it?” This can help us better understand how different economic policies are funded.
+According to MMT, the real limits on government spending are the availability of resources, like labor, materials, and technology, and the potential for inflation, rather than budget deficits. This perspective shifts the focus from asking, “How will we pay for it?” to “Do we have the resources to support it?” This can help us better understand how different economic policies are funded.
 
 MMT also provides a different way to view national debt. Rather than seeing deficits as a sign of poor financial health, they can be understood as part of the flow of money within the economy, supporting various activities like employment and business growth.
 
