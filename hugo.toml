@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Ryan Kroon'
 theme = "PaperMod"
 
+# mainSections=["finance", "economics", "technology"]
+
 [menu]
   [[menu.main]]
     name = "Tags"
