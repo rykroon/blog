@@ -1,6 +1,6 @@
 +++
-date = '2025-07-11T21:20:26-04:00'
-draft = true
+date = '2025-07-15T08:48:00-04:00'
+draft = false
 title = 'Understanding Money as a Unit of Value'
 categories = ["economics"]
 tags = ["mmt", "money", "gold"]
