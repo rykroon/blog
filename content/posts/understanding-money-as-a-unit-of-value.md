@@ -6,7 +6,7 @@ categories = ["economics"]
 tags = ["mmt", "money", "gold"]
 +++
 
-For the past few years I have been on a journey to better understand money. It started when I came across Modern Monetary Theory (MMT) via Stephanie Kelton's book, _The Deficit Myth_ a few years ago, and has now lead me to begin reading Anthropologist David Graber's book _Debt: The first 5,000 years_.
+For the past few years I have been on a journey to develop a better understanding of money. It started when I came across Modern Monetary Theory (MMT) via Stephanie Kelton's book, _The Deficit Myth_ a few years ago, and has now lead me to begin reading Anthropologist David Graber's book _Debt: The first 5,000 years_.
 
 ## Money is a Unit of Account
 The idea that has captured my recent attention is the notion that Money, rather than being a material item, is a unit of measure, specifically, **a unit of account**. The same way that an inch or a centimeter is a unit of length.
@@ -15,7 +15,7 @@ The idea that has captured my recent attention is the notion that Money, rather 
 There's a common nostalgia for the days when money was "backed by gold". The good old days of the Gold Standard. It gave our money this sense of tangibility. This way of thinking is rooted in the **Commodity Theory of Money**, which claims that money has intrinsic value, often tied to something like gold or silver.
 
 ## Gold, Measurement, and Value
-Picture a gold bar. It has physical properties such as length, width, height, and weight, which we measure in inches, centimeters, pounds, or ounces. But it also has a more subjective property: **its value to humans** (we love rare shiny things). And we measure that value in dollars, pounds, euros, or yen.
+Picture a gold bar. It has physical properties such as length, width, height, and weight, which we measure in inches, centimeters, pounds, or ounces. But it also has a more subjective property: **its value to humans** (we love rare shiny things). And we can measure that value in dollars, pounds, euros, yen, etc.
 
 In this case, money isn't the gold, it is a measurement of the value of the gold.
 
