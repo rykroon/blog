@@ -1,6 +1,6 @@
 baseURL = 'https://rykroon.github.io/blog'
 languageCode = 'en-us'
-title = 'Ryan Kroon'
+title = 'Ryan K'
 theme = "PaperMod"
 
 # mainSections=["finance", "economics", "technology"]
@@ -18,8 +18,8 @@ theme = "PaperMod"
 
   # https://github.com/adityatelange/hugo-PaperMod/wiki/Variables
   env = 'production' # to enable google analytics, opengraph, twitter-cards and schema.
-  description = "Ryan Kroon's blog"
-  author = 'Ryan Kroon'
+  description = "Ryan's blog"
+  author = 'Ryan K'
 
   defaultTheme = 'auto'
   # disableThemeToggle = true
