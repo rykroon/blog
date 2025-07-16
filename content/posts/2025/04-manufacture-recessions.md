@@ -3,7 +3,7 @@ date = '2025-06-16T19:25:17-04:00'
 draft = false
 title = 'Do We Manufacture Our Own Recessions?'
 categories=["economics"]
-tags=["interest rates", "zirp"]
+tags=["interest rates", "MMT", "ZIRP"]
 +++
 
 ## Why the Fed Raises Interest Rates
