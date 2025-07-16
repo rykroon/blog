@@ -1,6 +1,6 @@
 +++
 date = '2025-07-16T08:57:00-04:00'
-draft = true
+draft = false
 title = 'The Scarcity Portfolio'
 categories=["finance"]
 tags=["investing", "asset allocation", "fun money"]
